@@ -1,7 +1,7 @@
 {
   "name": "empty-project",
   "version": "1.0.0",
-  "main": "dis/index.js",
+  "main": "dist/index.js",
   "author": "Mohsen Azimi <me@azimi.me>",
   "license": "MIT",
   "scripts": {

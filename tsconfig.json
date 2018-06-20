@@ -1,6 +1,9 @@
 {
-    "compilerOptions": {
-        "declaration": true,
-        "outDir": "dist"
-    }
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "strict": true,
+    "lib": ["es2015", "es2015.iterable"],
+    "outDir": "dist"
+  }
 }

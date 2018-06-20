@@ -1,15 +1,2 @@
-# Empty TypeScript Project
-
-## Installation
-
-```
-npm install --save
-```
-
-## Usage
-
-```ts
-import { } from '';
-```
-
-
+# TypeScript bug reproduction repo
+https://github.com/Microsoft/TypeScript/issues/25101
